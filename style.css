@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+}
+
+#password
+{
+	margin-bottom: 20px;
+}
+
+#actionner
+{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
